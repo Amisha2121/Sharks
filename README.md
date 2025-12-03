@@ -1,6 +1,4 @@
-Here is a minimal `README.md` you can add to your repo and download as a file.
 
-```markdown
 # Sharks
 
 Tools and experiments for working with shark foraging and long‑term movement data, built primarily in Python and Jupyter notebooks. [web:0]
